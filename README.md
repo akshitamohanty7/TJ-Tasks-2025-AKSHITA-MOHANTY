@@ -2,6 +2,7 @@
 This repository contains beginner-level DSA solutions focusing on arrays, sequences, and string manipulation. It demonstrates basic problem-solving techniques, such as minimal operations, alternating patterns, and string transformations, aimed at building a strong foundation in algorithmic thinking.
 
 HERE'S MY APPROACH FOR EACH QUESTION:
+
 1️⃣ Make the Product Positive
 💡 The Problem
 
@@ -24,6 +25,8 @@ But if the number of -1s is odd and there’s no zero to flip, we need one more 
 
 ✅ In short: turn the mess of negatives and zeros into a team of happy positives with minimum effort.
 
+<img width="271" height="245" alt="task0" src="https://github.com/user-attachments/assets/d38d372a-eeae-4008-9730-6b67cd26cac5" />
+
 
 
 2️⃣ 
@@ -44,6 +47,9 @@ If n is odd → one extra x survives → sum = x
 No need to actually build the array. Just check if n is even or odd.
 
 ✅ In short: pure observation + math beats looping any day.
+<img width="521" height="419" alt="task1" src="https://github.com/user-attachments/assets/1a8a5892-640e-452a-b13b-1f1d217b7052" />
+
+
 
 3️⃣ 
 💡 The Problem
@@ -61,4 +67,5 @@ Join them, uppercase the result, and boom = modern name formed.
 
 ✅ In short: simple string slicing and a bit of style because even countries deserve rebranding.
 
+<img width="306" height="356" alt="task2" src="https://github.com/user-attachments/assets/75dbe400-3c4a-4f02-84e2-cd25821f7915" />
 
