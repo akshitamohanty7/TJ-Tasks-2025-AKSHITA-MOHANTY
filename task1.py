@@ -9,9 +9,9 @@ for _ in range(num):
     arr = []
     for i in range(n):
         if i % 2 == 0:
-            arr.append(-x)
+            arr.append(x)
             
         else:
-            arr.append(x)
+            arr.append(-x)
             
     print(sum(arr))
